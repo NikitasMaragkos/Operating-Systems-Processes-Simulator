@@ -4,19 +4,19 @@
 
 A simulator of an Operating System in low level. More specifically, there are many different implementations of:
 
-####Memory
+#### Memory
 * FirstFit
 * NextFit
 * BestFit
 * WorstFit
 
-####Scheduler
+#### Scheduler
 * FCFS
 * RoundRobin
 * SJF
 * SRTF
 
-####Paging
+#### Paging
 * FIFO
 * LRU
 * MMU
